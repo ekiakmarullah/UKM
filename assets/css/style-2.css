@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+/*NAVIGATION*/
+.navbar {
+	font-weight: 700;
+	font-size: .9rem;
+	letter-spacing: .1rem;
+}
+
+.navbar-brand img {
+	width: 5rem;
+	height: 5rem;
+}
+
+.navbar-nav li {
+	padding-right: .7rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #000 !important;
+	padding-top: .8rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #c0392b !important;
+}
+
+/*LOGIN*/
+.sb-admin-login-custom {
+	margin-top: 7rem;
+}
+
+body {
+	background-image: url(http://localhost/belajar-boostrap/UKM/assets/img/background.jpg) !important;
+}
+
+.registration-custom {
+	margin-top: 8.5rem;
+}
